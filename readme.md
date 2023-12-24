@@ -31,7 +31,7 @@
 
 # Ссылки
 
-Само приложение на `http://localhost:5000`
+Само приложение на `http://localhost`
 
 DB на `http://localhost:3000`
 
